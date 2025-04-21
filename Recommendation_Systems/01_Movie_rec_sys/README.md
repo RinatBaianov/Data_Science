@@ -2,7 +2,7 @@
 - Построить 2-х уровневую rec-sys модель на датасете movielens 100k https://grouplens.org/datasets/movielens/100k/  
 - Провести валидацию полученной модели     
 
-**Все решение находится в Decision.ipynb**  
+**<span style="color:red">Все решение находится в Decision.ipynb**</span>  
 
 
 ### Решение разбито на 5 больших пунктов:  
